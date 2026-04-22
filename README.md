@@ -1,0 +1,2 @@
+# stockflw
+stock management PWA
